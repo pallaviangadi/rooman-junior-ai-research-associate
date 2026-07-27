@@ -1,0 +1,27 @@
+Job Title: Junior AI Research Associate
+
+We are looking for a Junior AI Research Associate to join our team.
+
+Required Skills:
+- Python programming
+- Machine Learning fundamentals (scikit-learn, NLP)
+- Experience with REST APIs
+- Familiarity with SQL and databases (SQLite/PostgreSQL)
+- Git and version control
+- Data analysis using Pandas/NumPy
+
+Preferred Skills:
+- Experience with LLM APIs (OpenAI, Anthropic Claude)
+- Exposure to deep learning frameworks (PyTorch/TensorFlow)
+- Cloud platforms (AWS/GCP/Azure)
+- Docker and containerization
+
+Education: Bachelor's degree in Computer Science, AI/ML, or related field.
+
+Experience: 0-2 years of experience. Internship or academic project experience in AI/ML is a plus.
+
+Responsibilities:
+- Assist in building and testing AI agents and pipelines
+- Perform data cleaning, analysis, and model evaluation
+- Collaborate with senior researchers on ML experiments
+- Write clean, documented, and tested code

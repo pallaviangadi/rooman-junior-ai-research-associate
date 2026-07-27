@@ -1,0 +1,15 @@
+Ananya Rao
+B.Tech Computer Science, 2024
+
+Skills: Python, Machine Learning, scikit-learn, NLP, Pandas, NumPy, SQL, Git, REST APIs
+
+Experience:
+- Internship at DataSoft (6 months): Built a text classification pipeline using scikit-learn and Pandas.
+- Academic project: Built a chatbot using the OpenAI API and Flask REST APIs.
+- Familiar with SQLite for storing structured data.
+
+Education: B.Tech in Computer Science, XYZ Institute, 2024, CGPA 8.7
+
+Projects:
+- Sentiment analysis tool using NLP techniques
+- Git-based collaborative student project management tool

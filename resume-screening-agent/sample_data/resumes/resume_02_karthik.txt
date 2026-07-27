@@ -1,0 +1,14 @@
+Karthik Menon
+B.Sc Computer Applications, 2023
+
+Skills: Python, Java, HTML, CSS, JavaScript, MySQL, basic Git
+
+Experience:
+- Web development internship (3 months): Built a college portal using PHP and MySQL.
+- Freelance: Created static websites for small businesses.
+
+Education: B.Sc Computer Applications, 2023, 72%
+
+Projects:
+- Personal portfolio website
+- To-do list app in JavaScript

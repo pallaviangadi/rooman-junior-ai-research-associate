@@ -1,0 +1,14 @@
+Sneha Iyer
+B.Tech Information Technology, 2025
+
+Skills: Python, Pandas, NumPy, SQL, Git, basic Machine Learning, scikit-learn
+
+Experience:
+- College project: Predicted student performance using scikit-learn regression models.
+- Hackathon: Built a data dashboard using Pandas and Matplotlib.
+
+Education: B.Tech Information Technology, 2025, 78%
+
+Projects:
+- Student performance prediction using ML
+- SQL-based library management system

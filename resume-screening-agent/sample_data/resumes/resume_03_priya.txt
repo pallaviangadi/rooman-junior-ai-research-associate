@@ -1,0 +1,15 @@
+Priya Sharma
+M.Tech Artificial Intelligence, 2024
+
+Skills: Python, PyTorch, TensorFlow, Machine Learning, Deep Learning, NLP, SQL, Docker, AWS, Git
+
+Experience:
+- Research Assistant (1 year): Worked on deep learning models for image classification using PyTorch.
+- Internship at CloudAI: Deployed ML models on AWS using Docker containers.
+- Built REST APIs using FastAPI to serve ML models.
+
+Education: M.Tech Artificial Intelligence, ABC University, 2024, CGPA 9.1
+
+Projects:
+- Trained a transformer-based NLP model for text summarization
+- Deployed a Dockerized ML pipeline on AWS EC2
